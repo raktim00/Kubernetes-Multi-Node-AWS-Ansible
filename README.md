@@ -1,6 +1,9 @@
 # The Full procedure of doing this practical you can find in below link :
 
-## “Deploying Multi Node Kubernetes Cluster on AWS using Ansible Automation !!!” by Raktim Midya - https://link.medium.com/lQpS31wttfb
+## “Deploying Multi Node Kubernetes Cluster on AWS using Ansible Automation !!!” by Raktim Midya
+
+#### Blog Link - https://link.medium.com/lQpS31wttfb
+#### Video Demonstration - https://bit.ly/3a9GA6I
 
 ### Problem Statement :
 
